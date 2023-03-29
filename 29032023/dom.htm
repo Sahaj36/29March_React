@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function callme(){
+            // let f=document.getElementById("txtn").value;
+            // let l=document.getElementById("txtm").value;
+            // alert(f+l);
+            // alert("Function Called");
+            // let f=document.getElementsByName("txtname")[0].value;
+            // let l=document.getElementsByName("txtname")[1].value;
+            // alert(f+" "+l);
+            var f=myform.txtn.value;
+            alert(f);
+        }
+    </script>
+</head>
+<body>
+    <form id="myform">
+    Enter Your First Name : <input type="text"name="txtname" id="txtn"> <br>
+    Enter Your Last Name : <input type="text"name="txtname" id="txtm"> <br>
+    <button onclick="callme()">Click Me</button>
+</form>
+</body>
+</html>
