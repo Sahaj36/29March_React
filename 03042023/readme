@@ -1,0 +1,18 @@
+API LINKS-->
+https://openweathermap.org/current#geocoding
+https://fakestoreapi.com/products
+
+
+OPA (One Page Application) Single PAge Application
+
+Node JS
+1) install node js from nodejs.org
+2) node -v (to check version of nodejs)
+3) npm -v (to check node package manager version)
+4) npm install -g create-react-app  (install create-react-app) 
+5) create-react-app --version (to check install version of create-react-app)
+6) create-react-app myapp (myapp is name of application)
+
+JAVASCRIPT Locally
+JAVASCRIPT SERVER run NODE JS
+JS Server Run
