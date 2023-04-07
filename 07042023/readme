@@ -1,0 +1,32 @@
+Components
+2 types
+1) Function Components
+	1) Component Name's first letter must be in Uppercase
+2) Class Components
+reuse 
+Website 
+pages-> 
+index---
+header
+navbar
+section
+article
+
+about Us---
+header
+navbar
+section
+article
+
+
+
+
+PROPS (PROPERTIES)
+sending value to the components
+
+
+create layout of your website 
+header
+navbar
+section 
+footer
